@@ -18,4 +18,15 @@ This repo contains my solutions to Exercism exercises, organized by language. Ea
 - 📝 Notes and reflections
 - 🔁 Alternative approaches or optimizations (when applicable)
 
+## 🧭 Next Steps
 
+As I progress, I plan to:
+
+- Expand into ML-specific projects and algorithms
+- Integrate testing and benchmarking practices
+- Explore data structures, numerical computing, and optimization
+
+## 📬 Feedback & Collaboration
+
+This is a personal learning space, but I welcome feedback, suggestions, and discussions.  
+Feel free to open an issue or reach out!
